@@ -1,0 +1,5 @@
+outs:
+- md5: 84996585e9df7c48d157523532f6e684
+  size: 9183
+  hash: md5
+  path: slot_labels.csv
